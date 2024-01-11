@@ -1,5 +1,6 @@
 ![active development](https://img.shields.io/badge/active%20dev-no-red.svg)
 # click-crafters
+![LinguaFlow black banner](https://github.com/simcard0000/click-crafters/blob/main/Designs/LinguaFlow_Banner_Black.png)
 🖱️CS 449 project repository! Now an archive from Fall 2023; in the process of adding items to this repo.
 
 ### Team Members
