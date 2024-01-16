@@ -9,6 +9,8 @@
 ### Links and Artifacts
 * [CS449/649 F23 Human-Computer Interaction](https://cs.uwaterloo.ca/~jianzhao/cs449-649/) - course syllabi
 * [LinguaFlow (CS 449 Final Report) on Medium](https://medium.com/@simran.thind/linguaflow-cs-449-final-report-d1c696151626) - entire project process + demo video
+* [LinguaFlow HCI Project Questionnaire](https://forms.gle/LS8K6MAt5eh79Taw6) - developed as part of a user research process
+* Not everything made during the project is in this repository (like interview questions, presentations, other videos, etc.), but there are a couple of select files: a value proposition diagram, a cognitive evaluation worksheet, and a mockup of a design system
 
 ### Credits
 "Click Crafters" was the name of the student design team made for CS 449, comprising of: [Simran Thind](https://www.linkedin.com/in/simran-thind0000/), [Jasmine Tai](https://www.linkedin.com/in/taijasmine/), [Shawn Sun](https://www.linkedin.com/in/shawn-sun123/), and [Nandini Mehrotra](https://www.linkedin.com/in/nandinimehrotra/).
